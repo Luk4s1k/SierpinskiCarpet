@@ -1,0 +1,8 @@
+Package: freeglut
+Version: 3.2.2
+Depends: vcpkg-cmake:x64-windows, vcpkg-cmake-config:x64-windows
+Architecture: x86-windows
+Multi-Arch: same
+Abi: fbf52266790c9550fabe15a1c674127d34efb27aa7a15b1d36b064a793b371cc
+Description: Open source implementation of GLUT with source and binary backwards compatibility.
+Type: Port
